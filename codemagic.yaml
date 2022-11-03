@@ -1,0 +1,43 @@
+definitions:
+  env_versions: &env_versions
+    xcode: 14.1
+  triggering:
+    push: &push_event
+      events:
+        - push
+    branch_patterns:
+      - pattern: "benchmark"
+        include: true
+        source: true
+  scripts:
+    - &runBenchmarkTests
+      name: Run benchmark tests
+      script: sh benchmark.sh > /tmp/benchmark.log
+workflows:
+  ios-mac-pro-workflow:
+    name: iOS Mac Pro Workflow
+    instance_type: mac_pro
+    environment:
+      <<: *env_versions
+    triggering:
+      <<: *push_event
+    scripts:
+      - *runBenchmarkTests
+  ios-m1-mac-mini-workflow:
+    name: iOS M1 Mac Mini Workflow
+    instance_type: mac_mini_m1
+    environment:
+      <<: *env_versions
+    triggering:
+      <<: *push_event
+    scripts:
+      - *runBenchmarkTests
+  ios-mac-mini-workflow:
+    name: iOS Mac Mini Workflow
+    instance_type: mac_mini
+    environment:
+      <<: *env_versions
+    triggering:
+      <<: *push_event
+    scripts:
+      - *runBenchmarkTests
