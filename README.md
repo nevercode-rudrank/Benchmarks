@@ -16,7 +16,10 @@ Running Benchmark Tests | **184s** | 134s | 1080s
 - [`bitrise.yml`](https://github.com/nevercode-rudrank/Benchmarks/blob/benchmark/bitrise.yml)
 - [`github action ios.yml`](https://github.com/nevercode-rudrank/Benchmarks/blob/master/.github/workflows/ios.yml)
 
-- M1 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps//636384f636dd120e8bce1532/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/636384f636dd120e8bce1532/build/6364f680030e6b1c91779158)
+- Codemagic M1 Mac mini Workflow  [![Codemagic build status](https://api.codemagic.io/apps//636384f636dd120e8bce1532/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/636384f636dd120e8bce1532/build/6364f680030e6b1c91779158) 
+- Bitrise M1 Elite XL Workflow [![Build Status](https://app.bitrise.io/app/7e4ee99efa9d94cf/status.svg?token=j-0HsuqsKi3Lx9hDmaQTag&branch=master)](https://app.bitrise.io/app/7e4ee99efa9d94cf)
+- GitHub Actions Workflow ![Build Status](https://github.com/nevercode-rudrank/Benchmarks/actions/workflows/ios.yml/badge.svg?branch=benchmark)
+
 
 ## [Wikipedia iOS](https://github.com/nevercode-rudrank/wikipedia-ios)
 
@@ -31,4 +34,6 @@ Running Tests | **219** | 204s | 561s
 - [`bitrise.yml`](https://github.com/nevercode-rudrank/wikipedia-ios/blob/main/bitrise.yml)
 - [`github action ios.yml`](https://github.com/nevercode-rudrank/wikipedia-ios/blob/main/.github/workflows/ios.yml)
 
-- M1 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps//6267c85aeb4a9a0e7b7eba1b/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/6267c85aeb4a9a0e7b7eba1b/build/6365081abf9296703e06875d)
+- Codemagic M1 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps//6267c85aeb4a9a0e7b7eba1b/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/6267c85aeb4a9a0e7b7eba1b/build/6365081abf9296703e06875d)
+- Bitrise M1 Elite XL Workflow [![Build Status](https://app.bitrise.io/app/c8237484d99238e6/status.svg?token=N9v0ks0Fat21r-SsMluWEQ&branch=master)](https://app.bitrise.io/app/c8237484d99238e6)
+- GitHub Actions Workflow ![Build Status](https://github.com/nevercode-rudrank/wikipedia-ios/actions/workflows/ios.yml/badge.svg)
