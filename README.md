@@ -17,7 +17,7 @@ Running Benchmark Tests | **184s** | 134s | 1080s
 - [`github action ios.yml`](https://github.com/nevercode-rudrank/Benchmarks/blob/master/.github/workflows/ios.yml)
 
 - Codemagic M1 Mac mini Workflow  [![Codemagic build status](https://api.codemagic.io/apps//636384f636dd120e8bce1532/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/636384f636dd120e8bce1532/build/6364f680030e6b1c91779158) 
-- Bitrise M1 Elite XL Workflow [![Build Status](https://app.bitrise.io/app/7e4ee99efa9d94cf/status.svg?token=j-0HsuqsKi3Lx9hDmaQTag&branch=master)](https://app.bitrise.io/app/7e4ee99efa9d94cf)
+- Bitrise M1 Elite XL Workflow [![Build Status](https://app.bitrise.io/app/7e4ee99efa9d94cf/status.svg?token=j-0HsuqsKi3Lx9hDmaQTag&branch=master)](https://app.bitrise.io/build/0dc96483-0a7e-492a-ba3f-ae11f871cade)
 - GitHub Actions Workflow ![Build Status](https://github.com/nevercode-rudrank/Benchmarks/actions/workflows/ios.yml/badge.svg?branch=benchmark)
 
 
