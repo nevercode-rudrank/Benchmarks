@@ -4,7 +4,7 @@ Codemagic released the powerful M1 Mac mini for the developers to build and test
 
 > The build times are subjective and depend on external factors like the network speed for fetching resources, project size, external third-party dependencies, number of tests, etc.
 
-## [Xcode Benchmark](https://github.com/devMEremenko/XcodeBenchmark)
+## [Xcode Benchmark](https://github.com/nevercode-rudrank/Benchmarks/tree/benchmark)
 
 The first project is the famous `XcodeBenchmark` used to provide an idea about the performance of M1 Mac mini and Mac Pro. It is a framework that includes **42 popular CocoaPods** libraries and **70+ dependencies** in total.
 
@@ -18,7 +18,7 @@ Running Benchmark Tests | **184s** | 134s | 1080s
 
 - M1 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps//636384f636dd120e8bce1532/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/636384f636dd120e8bce1532/build/6364f680030e6b1c91779158)
 
-## [Wikipedia iOS](https://github.com/wikimedia/wikipedia-ios)
+## [Wikipedia iOS](https://github.com/nevercode-rudrank/wikipedia-ios)
 
 The official Wikipedia iOS app is open-sourced. It also contains multiple dependencies and hundreds of tests.
 
