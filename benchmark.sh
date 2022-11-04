@@ -16,8 +16,7 @@ if [ -n "$PATH_TO_PROJECT" ]; then
 
 	xcodebuild -workspace "$PATH_TO_PROJECT" \
 			   -scheme XcodeBenchmark \
-               -sdk iphonesimulator \
-               -destination 'platform=iOS Simulator,name=iPhone 14,OS=16.1' \
+                           -destination generic/platform=iOS \
 			   -derivedDataPath "$PATH_TO_DERIVED" \
 			   build
 
