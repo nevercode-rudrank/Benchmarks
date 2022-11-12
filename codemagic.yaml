@@ -12,7 +12,7 @@ definitions:
   scripts:
     - &runBenchmarkTests
       name: Run benchmark tests
-      script: sh benchmark.sh > /tmp/benchmark.log
+      script: sh benchmark.sh
 workflows:
   ios-mac-pro-workflow:
     name: iOS Mac Pro Workflow
