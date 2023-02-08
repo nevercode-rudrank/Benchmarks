@@ -10,7 +10,7 @@ The first project is the famous `XcodeBenchmark` used to provide an idea about t
 
 **Test name** | **Codemagic** | **Bitrise** | **GitHub Actions**
 --- | --- | --- | ---
-Running Benchmark Tests | **169.306s** | 135.645s | 1080s
+Running Benchmark Tests | **169.306s** | 135.645s | 709.172s
 
 - [`codemagic.yaml`](https://github.com/nevercode-rudrank/Benchmarks/blob/benchmark/codemagic.yaml)
 - [`bitrise.yml`](https://github.com/nevercode-rudrank/Benchmarks/blob/benchmark/bitrise.yml)
@@ -18,7 +18,7 @@ Running Benchmark Tests | **169.306s** | 135.645s | 1080s
 
 - Codemagic M1 Mac mini Workflow  [![Codemagic build status](https://api.codemagic.io/apps//636384f636dd120e8bce1532/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/636384f636dd120e8bce1532/build/63e3050e34df01f41f9f1db1) 
 - Bitrise M1 Elite XL Workflow [![Build Status](https://app.bitrise.io/app/3352aa05cfe2f537/status.svg?token=kSu7Wj2ScSkR8NA44mO-gQ&branch=master)](https://app.bitrise.io/build/1d4f2322-0af4-445c-99b0-3c58723619cb)
-- GitHub Actions Workflow [![Build Status](https://github.com/nevercode-rudrank/Benchmarks/actions/workflows/ios.yml/badge.svg?branch=benchmark)](https://github.com/nevercode-rudrank/Benchmarks/actions/runs/3393398523)
+- GitHub Actions Workflow [![Build Status](https://github.com/nevercode-rudrank/Benchmarks/actions/workflows/ios.yml/badge.svg?branch=benchmark)](https://github.com/nevercode-rudrank/Benchmarks/actions/runs/7114673613)
 
 
 ## [Wikipedia iOS](https://github.com/nevercode-rudrank/wikipedia-ios)
