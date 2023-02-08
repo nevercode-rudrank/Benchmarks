@@ -10,7 +10,7 @@ workflows:
       - git-clone@6: {}
       - script@1:
           inputs:
-            - content: sh benchmark.sh > /tmp/benchmark.log
+            - content: sh benchmark.sh
 meta:
   bitrise.io:
     stack: osx-xcode-14.1.x
