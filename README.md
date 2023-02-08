@@ -27,13 +27,13 @@ The official Wikipedia iOS app is open-sourced. It also contains multiple depend
 
 **Test name** | **Codemagic** | **Bitrise** | **GitHub Actions**
 --- | --- | --- | ---
-Building Project | **115s** | 96s | 299s
-Running Tests | **219** | 204s | 561s
+Building Project | **113s** | 96s | 299s
+Running Tests | **248s** | 204s | 561s
 
 - [`codemagic.yaml`](https://github.com/nevercode-rudrank/wikipedia-ios/blob/main/codemagic.yaml)
 - [`bitrise.yml`](https://github.com/nevercode-rudrank/wikipedia-ios/blob/main/bitrise.yml)
 - [`github action ios.yml`](https://github.com/nevercode-rudrank/wikipedia-ios/blob/main/.github/workflows/ios.yml)
 
-- Codemagic M1 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps//6267c85aeb4a9a0e7b7eba1b/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/6267c85aeb4a9a0e7b7eba1b/build/6365081abf9296703e06875d)
+- Codemagic M1 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps//6267c85aeb4a9a0e7b7eba1b/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/6267c85aeb4a9a0e7b7eba1b/build/63e305a7cd0bf43d05807647)
 - Bitrise M1 Elite XL Workflow [![Build Status](https://app.bitrise.io/app/c8237484d99238e6/status.svg?token=N9v0ks0Fat21r-SsMluWEQ&branch=master)](https://app.bitrise.io/build/492c1e5f-51e3-4d1e-948c-eeedd323da3b)
 - GitHub Actions Workflow [![Build Status](https://github.com/nevercode-rudrank/wikipedia-ios/actions/workflows/ios.yml/badge.svg)](https://github.com/nevercode-rudrank/wikipedia-ios/actions/runs/3393761012)
