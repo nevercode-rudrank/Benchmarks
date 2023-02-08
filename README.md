@@ -10,7 +10,7 @@ The first project is the famous `XcodeBenchmark` used to provide an idea about t
 
 **Test name** | **Codemagic** | **Bitrise** | **GitHub Actions**
 --- | --- | --- | ---
-Running Benchmark Tests | **189s** | 144s | 1080s
+Running Benchmark Tests | **169.306s** | 135.645s | 1080s
 
 - [`codemagic.yaml`](https://github.com/nevercode-rudrank/Benchmarks/blob/benchmark/codemagic.yaml)
 - [`bitrise.yml`](https://github.com/nevercode-rudrank/Benchmarks/blob/benchmark/bitrise.yml)
