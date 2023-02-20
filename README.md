@@ -27,7 +27,7 @@ The official Wikipedia iOS app is open-sourced. It also contains multiple depend
 
 **Test name** | **Codemagic** | **Bitrise** | **GitHub Actions**
 --- | --- | --- | ---
-Building Project | **1m53s** | 1m 36s | 4m 58s
+Building Project | **1m 53s** | 1m 36s | 4m 58s
 Running Tests | **4m 8s** | 3m 18s | 9m 3s
 
 - [`codemagic.yaml`](https://github.com/nevercode-rudrank/wikipedia-ios/blob/main/codemagic.yaml)
