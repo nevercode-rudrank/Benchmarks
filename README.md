@@ -10,7 +10,7 @@ The first project is the famous `XcodeBenchmark` used to provide an idea about t
 
 **Test name** | **Codemagic** | **Bitrise** | **GitHub Actions**
 --- | --- | --- | ---
-Running Benchmark Tests | **2m 49.306s** | 2m 15.645s | 11m 29.172s
+Running Benchmark Tests | **2m 49s** | 2m 16s | 11m 29s
 
 - [`codemagic.yaml`](https://github.com/nevercode-rudrank/Benchmarks/blob/benchmark/codemagic.yaml)
 - [`bitrise.yml`](https://github.com/nevercode-rudrank/Benchmarks/blob/benchmark/bitrise.yml)
@@ -27,8 +27,8 @@ The official Wikipedia iOS app is open-sourced. It also contains multiple depend
 
 **Test name** | **Codemagic** | **Bitrise** | **GitHub Actions**
 --- | --- | --- | ---
-Building Project | **113s** | 96s | 4m 58.453s
-Running Tests | **248s** | 3m 18.147s | 9m 2.714s
+Building Project | **1m53s** | 1m 36s | 4m 58s
+Running Tests | **4m 8s** | 3m 18s | 9m 3s
 
 - [`codemagic.yaml`](https://github.com/nevercode-rudrank/wikipedia-ios/blob/main/codemagic.yaml)
 - [`bitrise.yml`](https://github.com/nevercode-rudrank/wikipedia-ios/blob/main/bitrise.yml)
