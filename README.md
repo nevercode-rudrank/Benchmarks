@@ -39,7 +39,7 @@ Running Tests | **2m 34s** | 3m 27s | 3m 18s | 9m 3s
 - Bitrise M1 Elite XL Workflow [![Build Status](https://app.bitrise.io/app/c8237484d99238e6/status.svg?token=N9v0ks0Fat21r-SsMluWEQ&branch=master)](https://app.bitrise.io/build/492c1e5f-51e3-4d1e-948c-eeedd323da3b)
 - GitHub Actions Workflow [![Build Status](https://github.com/nevercode-rudrank/wikipedia-ios/actions/workflows/ios.yml/badge.svg)](https://github.com/nevercode-rudrank/wikipedia-ios/actions/runs/3393761012)
 
-## [Signal iOS](https://github.com/nevercode-rudrank/Signal-iOS))
+## [Signal iOS](https://github.com/nevercode-rudrank/Signal-iOS)
 
 Signal is a free, open source, messaging app for simple private communication with friends. It is a great project for testing out benchmarks that replicates a real-world application.
 
