@@ -25,15 +25,16 @@ Running Benchmark Tests | **2m 49s** | 2m 16s | 11m 29s
 
 The official Wikipedia iOS app is open-sourced. It also contains multiple dependencies and hundreds of tests.
 
-**Test name** | **Codemagic** | **Bitrise** | **GitHub Actions**
---- | --- | --- | ---
-Building Project | **1m 53s** | 1m 36s | 4m 58s
-Running Tests | **4m 8s** | 3m 18s | 9m 3s
+**Test name** | **Codemagic (M2 Mac Mini)** | **Codemagic (M1 Mac Mini)** | **Bitrise** | **GitHub Actions**
+--- | --- | --- | --- | ---
+Building Project | **1m 20s** | **1m 42s** | 1m 36s | 4m 58s
+Running Tests | **2m 34s** | 3m 27s | 3m 18s | 9m 3s
 
 - [`codemagic.yaml`](https://github.com/nevercode-rudrank/wikipedia-ios/blob/main/codemagic.yaml)
 - [`bitrise.yml`](https://github.com/nevercode-rudrank/wikipedia-ios/blob/main/bitrise.yml)
 - [`github action ios.yml`](https://github.com/nevercode-rudrank/wikipedia-ios/blob/main/.github/workflows/ios.yml)
 
-- Codemagic M1 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps//6267c85aeb4a9a0e7b7eba1b/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/6267c85aeb4a9a0e7b7eba1b/build/63e305a7cd0bf43d05807647)
+- Codemagic M2 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps//6267c85aeb4a9a0e7b7eba1b/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/6267c85aeb4a9a0e7b7eba1b/build/643fa4ada6c16df739a8e5c8)
+- Codemagic M1 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps//6267c85aeb4a9a0e7b7eba1b/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/6267c85aeb4a9a0e7b7eba1b/build/643fa4ada6c16df739a8e5c7)
 - Bitrise M1 Elite XL Workflow [![Build Status](https://app.bitrise.io/app/c8237484d99238e6/status.svg?token=N9v0ks0Fat21r-SsMluWEQ&branch=master)](https://app.bitrise.io/build/492c1e5f-51e3-4d1e-948c-eeedd323da3b)
 - GitHub Actions Workflow [![Build Status](https://github.com/nevercode-rudrank/wikipedia-ios/actions/workflows/ios.yml/badge.svg)](https://github.com/nevercode-rudrank/wikipedia-ios/actions/runs/3393761012)
