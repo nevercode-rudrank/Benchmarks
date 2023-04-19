@@ -26,8 +26,8 @@ Running Tests | **2m 34s** | 3m 27s
 
 - [`codemagic.yaml`](https://github.com/nevercode-rudrank/wikipedia-ios/blob/main/codemagic.yaml)
 
-- Codemagic M2 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps/6267c85aeb4a9a0e7b7eba1b/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/6267c85aeb4a9a0e7b7eba1b/build/643fa4ada6c16df739a8e5c8)
-- Codemagic M1 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps/6267c85aeb4a9a0e7b7eba1b/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/6267c85aeb4a9a0e7b7eba1b/build/643fa4ada6c16df739a8e5c7)
+- Codemagic M2 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps/6267c85aeb4a9a0e7b7eba1b/wikipedia-m2-mini/status_badge.svg)](https://codemagic.io/app/6267c85aeb4a9a0e7b7eba1b/build/643fa4ada6c16df739a8e5c8)
+- Codemagic M1 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps/6267c85aeb4a9a0e7b7eba1b/iwikipedia-m1-mini/status_badge.svg)](https://codemagic.io/app/6267c85aeb4a9a0e7b7eba1b/build/643fa4ada6c16df739a8e5c7)
 
 ## [Signal iOS](https://github.com/nevercode-rudrank/Signal-iOS)
 
@@ -52,5 +52,5 @@ Building Project | **2m 12s** | 2m 50s
 
 - [`codemagic.yaml`](https://github.com/nevercode-rudrank/mastodon-ios/blob/develop/codemagic.yaml)
 
-- Codemagic M2 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps/63a21b433246c3f84a9da7d4/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/63a21b433246c3f84a9da7d4/build/643faf0fc112ac5cd5e19fb8)
-- Codemagic M1 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps/63a21b433246c3f84a9da7d4/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/63a21b433246c3f84a9da7d4/build/643faf0fc112ac5cd5e19fb6)
+- Codemagic M2 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps/63a21b433246c3f84a9da7d4/mastodon-ios-m2/status_badge.svg)](https://codemagic.io/app/63a21b433246c3f84a9da7d4/build/643faf0fc112ac5cd5e19fb8)
+- Codemagic M1 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps/63a21b433246c3f84a9da7d4/mastodon-ios-m1/status_badge.svg)](https://codemagic.io/app/63a21b433246c3f84a9da7d4/build/643faf0fc112ac5cd5e19fb6)
