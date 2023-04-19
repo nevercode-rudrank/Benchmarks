@@ -39,9 +39,22 @@ Running Tests | **2m 34s** | 3m 27s | 3m 18s | 9m 3s
 - Bitrise M1 Elite XL Workflow [![Build Status](https://app.bitrise.io/app/c8237484d99238e6/status.svg?token=N9v0ks0Fat21r-SsMluWEQ&branch=master)](https://app.bitrise.io/build/492c1e5f-51e3-4d1e-948c-eeedd323da3b)
 - GitHub Actions Workflow [![Build Status](https://github.com/nevercode-rudrank/wikipedia-ios/actions/workflows/ios.yml/badge.svg)](https://github.com/nevercode-rudrank/wikipedia-ios/actions/runs/3393761012)
 
+## [Signal iOS](https://github.com/nevercode-rudrank/Signal-iOS))
+
+Signal is a free, open source, messaging app for simple private communication with friends. It is a great project for testing out benchmarks that replicates a real-world application.
+
+**Test name** | **Codemagic (M2 Mac Mini)** | **Codemagic (M1 Mac Mini)**
+--- | --- | ---
+Building and Testing | **6m 51s** | 7m 37s
+
+- [`codemagic.yaml`](https://github.com/nevercode-rudrank/Signal-iOS/blob/main/codemagic.yaml)
+
+- Codemagic M2 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps/626e67f46248df64e0b79f91/ios-m2-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/626e67f46248df64e0b79f91/build/643fb05d4d88a8c286334f33)
+- Codemagic M1 Mac mini Workflow [![Codemagic build status](https://api.codemagic.io/apps/626e67f46248df64e0b79f91/ios-m1-mac-mini-workflow/status_badge.svg)](https://codemagic.io/app/626e67f46248df64e0b79f91/build/643fb0598854fcfe834a8b75)
+
 ## [Mastodon iOS](https://github.com/nevercode-rudrank/mastodon-ios)
 
-The official Mastodon iOS app's repository is available as open-source. Y
+The official Mastodon iOS app's repository is available as open-source.
 
 **Test name** | **Codemagic (M2 Mac Mini)** | **Codemagic (M1 Mac Mini)**
 --- | --- | ---
